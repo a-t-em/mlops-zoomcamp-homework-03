@@ -1,0 +1,15 @@
+artifact_uri: file:///home/src/mlruns/501909255559078474/136efae7ceea48f9890f1deff1b91a88/artifacts
+end_time: 1717501710190
+entry_point_name: ''
+experiment_id: '501909255559078474'
+lifecycle_stage: active
+run_id: 136efae7ceea48f9890f1deff1b91a88
+run_name: gentle-moth-736
+run_uuid: 136efae7ceea48f9890f1deff1b91a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717501708452
+status: 3
+tags: []
+user_id: root
